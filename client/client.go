@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	pb "github.com/bwv1056/greeter"
+	pb "github.com/bwv1056/greeter/grpc"
 
 	"google.golang.org/grpc"
 
